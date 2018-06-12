@@ -1,0 +1,31 @@
+Package: sdo
+Type: Package
+Title: Sustainable Development Objectives: a Short Analysis
+Version: 0.1.0
+Date: 2017-10-30
+Authors@R: person("Paul", "Poncet", , "paulponcet@yahoo.fr", role = c("aut", "cre"))
+Description: Short description of UNO and Eurostat data related to sustainable 
+    developments objectives.
+License: MIT
+LazyData: TRUE
+Depends:
+    R (>= 3.1.3)
+Imports: 
+    bazar,
+    dplyr,
+    foreach,
+    ggplot2,
+    ggthemes,
+    readxl, 
+    tidyr, 
+    viridis
+VignetteBuilder: 
+    knitr
+Suggests:
+    ggplot2,
+    knitr, 
+    plotly,
+    testthat
+URL: https://github.com/paulponcet/sdo
+BugReports: https://github.com/paulponcet/sdo/issues
+RoxygenNote: 6.0.1

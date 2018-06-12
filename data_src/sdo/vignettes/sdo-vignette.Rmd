@@ -1,0 +1,88 @@
+---
+title: 'Analyzing Sustainable Development Objectives'
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_vignette:
+    fig_width: 7
+    fig_height: 4
+    self_contained: yes
+    css: markdown-alt.css
+vignette: >
+  %\VignetteIndexEntry{Analyzing Sustainable Development Objectives}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(collapse = TRUE, 
+                      echo = FALSE, 
+                      message = FALSE,
+                      warning = FALSE,
+                      comment = "#>")
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(plotly)
+library(DT)
+library(sdo)
+```
+
+Our main dataset is the following: 
+
+```{r}
+df = sdo::defi2
+datatable(df)
+```
+
+Let us recall the meaning of the different variables: 
+
+- CBI: 
+- EROW: 
+- GDPC: 
+- GHG:
+- HLY: 
+- ODA: 
+- PEC: 
+- RE: 
+- RP: 
+- SECT: 
+
+First we display the pairwise correlations between these variables: 
+
+```{r}
+library(corrplot)
+corrplot(cor(df[-c(1:2)], use = "pairwise.complete.obs"), 
+         method = "circle")
+```
+
+```{r, eval = FALSE}
+plot_heatmap(df, #%>% gather("Var", "Value", -Area, -Year), 
+             x = "Year",
+             y = "Area",
+             fill = "EROW", 
+             viridis = TRUE)#, 
+             #facet = "Var")
+```
+
+
+```{r}
+g = ggplot(df, aes(Year, EROW, colour = Area)) + 
+  geom_point() + 
+  theme_bw() + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+print(g)
+
+## Idees
+# heatmap
+# animation / movie chart
+# radar chart: is this country good at its objectives? 
+
+# cluster: create good of countries
+
+# map of European countries: choose your index
+
+
+
+
+
+```
