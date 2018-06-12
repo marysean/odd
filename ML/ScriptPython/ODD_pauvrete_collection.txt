@@ -1,0 +1,40 @@
+﻿classe	message
+pauvrete	pas de pauvreté
+pauvrete	Les taux d’extrême pauvreté ont été réduits de moitié depuis 1990, une réalisation remarquable, certes, mais une personne sur cinq dans les régions en développement vit encore avec moins de 1,25 dollar par jour et des millions d’autres ne gagnent guère plus que ce montant par jour, et en outre nombreux sont ceux qui risquent de retomber dans la pauvreté.
+pauvrete	La pauvreté ne se résume pas à l’insuffisance de revenus et de ressources pour assurer des moyens de subsistance durables. Ses manifestations comprennent la faim et la malnutrition, l’accès limité à l’éducation et aux autres services de base, la discrimination et l’exclusion sociales ainsi que le manque de participation à la prise de décisions. La croissance économique doit être partagée pour créer des emplois durables et promouvoir l'égalité.
+pauvrete	Environ une personne sur cinq dans les régions en développement vit encore avec moins de 1,25 dollar par jour
+pauvrete	L’écrasante majorité des personnes vivant avec moins de 1,25 dollar par jour appartiennent à deux régions: l’Asie du Sud et l’Afrique subsaharienne
+pauvrete	On trouve souvent des taux de pauvreté élevés dans les petits pays fragiles et touchés par un conflit
+pauvrete	Un enfant sur quatre âgé de moins de 5 ans dans le monde a une taille insuffisante par rapport à son âge
+pauvrete	Chaque jour en 2013, 32 000 personnes ont dû abandonner leur foyer pour être à l’abri d’un conflit.
+pauvrete	La FAO et la Banque mondiale renforcent leur partenariat pour mettre un terme à la faim et à la pauvreté
+pauvrete	La Vice-Secrétaire générale appelle à faire de l’élimination de la pauvreté un objectif de l’ensemble de l’ONU
+pauvrete	Vingt-sept millions de personnes n’ont pas accès à l’eau potable dans les pays confrontés à la famine, selon l’UNICEF
+pauvrete	La FAO crée un dispositif pour améliorer les pratiques agricoles des pays pauvres en eau
+pauvrete	Mettre fin à la pauvreté sous toutes ses formes et partout dans le monde d’ici à 2030.
+pauvrete	Plus de 700 millions de personnes vivent encore dans l’extrême pauvreté et peinent à satisfaire leurs besoins les plus élémentaires, tels que la santé, l’éducation et l’accès à l’eau et à l’assainissement, pour n’en citer que quelques-uns.
+pauvrete	L’écrasante majorité des personnes vivant avec moins de 1,90 dollar par jour appartient à deux régions : l’Asie du Sud et l’Afrique subsaharienne. Ces deux régions abritent environ 70 % de la totalité mondiale des personnes en situation d’extrême pauvreté.
+pauvrete	Les pays à revenu intermédiaire (tranche inférieure), dont la Chine, l’Inde, la République d’Indonésie et le Nigéria, abritent près de la moitié des pauvres du monde.
+pauvrete	Cependant, les pays développés ne sont pas épargnés. À l’heure actuelle, 30 millions d’enfants grandissent dans la pauvreté dans les pays les plus riches du monde.
+pauvrete	La pauvreté est de natures très diverses, mais parmi ses causes figurent le chômage, l’exclusion sociale et la grande vulnérabilité de certaines populations aux catastrophes, maladies et autres phénomènes qui les empêchent d’être productives.
+pauvrete	Les inégalités grandissantes nuisent à la croissance économique et sapent la cohésion sociale, aggravant les tensions politiques et sociales et, dans certains cas, alimentant l’instabilité et les conflits.
+pauvrete	Les Gouvernements peuvent aider à créer un environnement porteur , qui offrirait un emploi productif et des perspectives professionnelles pour les personnes pauvres et marginalisées. Ils peuvent formuler des stratégies et des politiques fiscales pour stimuler une croissance favorable aux pauvres et réduire la pauvreté.
+pauvrete	Ce mardi est la journée internationale pour l'élimination de la pauvreté. Selon le baromètre Ipsos-Secours populaire diffusé en septembre, 37% de la population a déjà fait l'expérience de la pauvreté et 20% a cru être sur le point de connaître une telle situation. L'association y voit le signe que la pauvreté s'enracine, notamment chez les seniors.
+unrelated	Alors que débute la deuxième phase des Etats généraux de l’alimentation, l’UFC-Que choisir dénonce la responsabilité de l’agriculture intensive, qui répand massivement des pesticides.
+unrelated	Eclaboussée par le scandale sexuel visant son cofondateur Harvey Weinstein, la firme est entrée en négociations avec Colony Capital.
+unrelated	Des manifestations sont annoncées mardi en Catalogne pour protester contre le placement en détention de deux importants dirigeants indépendantistes.
+unrelated	Les alliés des forces arabo-kurdes font de la traque des recrues djihadistes une priorité de la reprise, imminente, de la ville, ancienne capitale de l’organisation terroriste.
+unrelated	Pour le chef de l’Etat, « la France est un pays de monarchistes régicides ». Pour calmer la grogne, dimanche soir, il a opté pour la pédagogie mais pas pour les concessions, souligne dans sa chronique, Françoise Fressoz, éditorialiste au « Monde ».
+unrelated	«Au nom de Marie» pour répondre à «Cantat en son nom». Une semaine après la couverture polémique des Inrocks consacrée à Bernard Cantat, le magazine Elle a choisi de dédier son édito à la victime de ce dernier, Marie Trintignant.
+unrelated	La journaliste, à l'origine de graves accusations de corruption contre le gouvernement de son pays dans le cadre des Panama Papers, est morte dans l'explosion de sa voiture.
+unrelated	Pour l'entrepreneur Sébastien Laye, la révolution fiscale macronienne profitera aux classes aisées au détriment des classes intermédiaires, sacrifiées du quinquennat.
+unrelated	Lors du procès du frère du «tueur au scooter», un ancien responsable régional des services a raconté ce lundi que sa direction avait envisagé de recruter le djihadiste un mois avant qu'il ne tue sept personnes en 2012.
+unrelated	L'ancien chef de l'État a choisi la Corée du Sud pour effectuer son premier déplacement à l'étranger depuis son départ de l'Élysée. En marge d'une conférence, il a vivement critiqué son successeur qui ne l'avait pas épargné lors de son intervention télévisée.
+unrelated	D'ici jeudi, la région doit préciser ses intentions. Lundi, deux dirigeants indépendantistes ont été placés en détention pour sédition. «Une provocation» pour le gouvernement catalan.
+unrelated	Portés par des vents violents et une vague de forte chaleur, de violents feux de forêt touchent depuis dimanche la péninsule ibérique. Au moins trente-six personnes sont mortes au Portugal, et trois dans le nord-ouest de l'Espagne. «Il s'agit d'incendies volontaires, prémédités», accuse le premier ministre Mariano Rajoy.
+unrelated	L'Irlande a ordonné la fermeture de toutes les écoles lundi et mardi en prévision de l'arrivée de l'ouragan Ophelia, le plus important jamais enregistré aussi loin à l'est dans l'océan Atlantique.
+unrelated	L'éditeur de l'hebdomadaire, le groupe Valmonde, a porté plainte pour détournement de «plusieurs millions d'euros», réalisé grâce à un système de surfacturation auquel aurait participé un de ses responsables, a indiqué une source proche de la direction, confirmant des informations de Libération.
+unrelated	Anthony Ervin, champion olympique du 50 m nage libre à Rio, a mis un genou à terre pendant l'hymne américain en soutien aux joueurs de NFL qui dénoncent les discriminations raciales aux Etats-Unis.
+unrelated	Le contrat de l'attaquant brésilien comporterait une clause lui permettant d'obtenir une prime de trois millions d'euros s'il décrochait le Ballon d'Or.
+unrelated	Le mot-clé a suscité près de 160.000 messages sur Twitter depuis samedi soir. En contribuant à la libération de la parole des femmes victimes de harcèlement ou d'agression sexuelle, l'initiative a également poussé des internautes masculins à questionner leur propre attitude.
+

@@ -1,0 +1,2 @@
+Adaptation réalisée par Maryse Anbar sur la base du tutoriel de Ricco Tanagra :
+https://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/fr_Tanagra_Doc_Classification_Python.pdf
